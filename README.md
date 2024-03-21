@@ -6,18 +6,18 @@
 
 ```javascript
 const Jhanvi = {
-  skills: ["Full stack developer", "Android Developer", "Programmer"],
+  skills: ["Data Analyst", "Data Scientist", "Programmer"],
   programming: {
-    languages: [
-     Python,
+  languages: [
+    Python,
     Matplotlib,
-    plotly,
-    seaborn,
-    pandas,
+    Plotly,
+    Seaborn,
+    Pandas,
     Numpy
     ],
     databases: ["MySQL", "Mongo DB", "SQLite"],
-    tools: ["SnowFlack, "Firebase"],
+    tools: ["SnowFlack, Firebase"],
   },
 };
 ```

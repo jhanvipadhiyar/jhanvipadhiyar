@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Programmer, Developer, and Freelancer!!</h3>
 
 ```javascript
-const Rushil = {
+const Jhanvi = {
   skills: ["Full stack developer", "Android Developer", "Programmer"],
   programming: {
     languages: [
